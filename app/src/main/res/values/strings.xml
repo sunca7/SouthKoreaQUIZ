@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KOREA QUIZ</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="radio_Q1">"Q1. Which city is the capital of South Korea?"</string>
+    <string name="radio_city1">Osaka</string>
+    <string name="radio_city2">Incheon</string>
+    <string name="radio_city3">Seoul</string>
+    <string name="radio_city4">Busan</string>
+    <string name="btn_display">Check</string>
+
+</resources>
